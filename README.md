@@ -12,6 +12,24 @@ This project is inspired by and based on the following open-source project:
 
 - [ChatGPT-Demo](https://github.com/anse-app/chatgpt-demo) - For the foundational codebase and features.
 
+## Bonus: Mario-Style Platform Game
+
+This branch includes a fun Mario-style platform game built with HTML5 Canvas!
+
+### Features
+- Classic 2D platformer gameplay
+- Jump physics and gravity system
+- Collectible coins and enemies
+- Multiple levels
+- Responsive controls
+
+### How to Play
+1. Follow the "Running Locally" instructions below
+2. Visit `http://localhost:3000/mario` after starting the dev server
+3. Use arrow keys to move and spacebar to jump
+4. Collect all coins to advance to the next level!
+
+For detailed game instructions, see [MARIO_GAME.md](./MARIO_GAME.md)
 
 ## Running Locally
 
